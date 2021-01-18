@@ -35,7 +35,7 @@ ok $be, "AEneid", ($from= "Æneid");
 ok $be, "etude", ($from= "étude");
 
 print "# Chinese...\n";
-ok $be, "Bei Jing ", ($from="北亰");
+ok $be, "Bei Jing ", ($from="北京");
 
 print "# Canadian syllabics...\n";
 ok $be, "shanana", ($from= "ᔕᓇᓇ");
