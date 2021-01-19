@@ -10,7 +10,7 @@ If you have smarter text-handling subroutines, Unidecode might be useful
 as a fallthrough for them.
 
 Example:
-   print unidecode(  "北亰\n" );
+   print unidecode(  "北京\n" );
            prints:  Bei Jing
 
 See more examples below.

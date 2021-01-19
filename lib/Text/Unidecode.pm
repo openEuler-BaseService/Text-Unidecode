@@ -239,7 +239,7 @@ Text::Unidecode -- plain ASCII transliterations of Unicode text
   use utf8;
   use Text::Unidecode;
   print unidecode(
-    "北亰\n"
+    "北京\n"
     # Chinese characters for Beijing (U+5317 U+4EB0)
   );
   
